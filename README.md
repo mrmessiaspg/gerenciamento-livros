@@ -28,8 +28,8 @@ Este projeto é uma aplicação web para gerenciamento de livros, utilizando Nod
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/gerenciamento-livros.git
-   cd gerenciamento-livros/backend
+   git clone https://github.com/mrmessiaspg/gerenciamento-livros
+   cd gerenciamento-livros
    ```
 
 2. **Instale as dependências**:
@@ -100,7 +100,7 @@ gerenciamento-livros/
   - **PUT** `/api/books/:id`: Edita um livro existente.
   - **DELETE** `/api/books/:id`: Remove um livro.
 
-## Demonstração
+## Vídeo de Demonstração
 
 Veja a aplicação em ação: [Demonstração do Front-end](https://www.youtube.com/watch?v=c6i3oArnbqg).
 
