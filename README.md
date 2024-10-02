@@ -36,8 +36,7 @@ Para executar este projeto, você precisará dos seguintes componentes instalado
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/gerenciamento-livros.git
-   cd gerenciamento-livros/backend
+   git clone https://github.com/mrmessiaspg/gerenciamento-livros
    ```
 
 2. **Instale as dependências**:
